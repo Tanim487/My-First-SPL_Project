@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683096129 source:e:\_________________________project_____________________________\patientmanagement\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
