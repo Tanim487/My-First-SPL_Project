@@ -1,4 +1,4 @@
-# 🏥 Patient Management System
+# 🏥 Patient Management System.
 
 ## 📌 Overview
 Welcome to the **Patient Management System**! This is a simple **console-based** program designed to help manage patient records efficiently. With this system, you can **add, search, update, list, and delete** patient details with ease. Built using **C programming**, it uses text files for data storage.
